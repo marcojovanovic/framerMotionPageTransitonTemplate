@@ -5,4 +5,4 @@ Moj prvi mini projekat sa framer-motion. Pa dobro ovo je vise template nego nest
 kako sam uradio page-transition i samo da analogno uradim isto 
 
 
-[link projekta](https://sharp-jang-693129.netlify.app/services)
+[link projekta](https://sharp-jang-693129.netlify.app/)
