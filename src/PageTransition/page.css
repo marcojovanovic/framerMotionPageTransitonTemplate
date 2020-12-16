@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul li{
+  list-style: none;
+}
+
+
+.about-body{
+  background: url('../images/pelegea3.jpg') center no-repeat;
+  height: 100vh;
+}
+.home-body{
+  background: url('../images/pelegea1.jpg') center no-repeat;
+  height: 100vh;
+}
+.services-body{
+  background: url('../images/pelegea2.jpg') center no-repeat;
+  height: 100vh;
+}
+
+.flex{
+  display: flex;
+  justify-content: space-around;
+}
